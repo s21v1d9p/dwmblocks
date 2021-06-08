@@ -1,5 +1,3 @@
-# dwmblocks
-Modular status bar for dwm written in c.
 # installation
 ```
 git clone https://github.com/s21v1d9p/dwmblocks
